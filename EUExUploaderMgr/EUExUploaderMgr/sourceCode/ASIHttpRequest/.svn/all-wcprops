@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/plugin3.0_ios/!svn/ver/111/trunk/code/public/EUExUploaderMgr/EUExUploaderMgr/sourceCode/ASIHttpRequest
+END
+ASICacheDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/plugin3.0_ios/!svn/ver/111/trunk/code/public/EUExUploaderMgr/EUExUploaderMgr/sourceCode/ASIHttpRequest/ASICacheDelegate.h
+END
+ASIHTTPRequestConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/plugin3.0_ios/!svn/ver/111/trunk/code/public/EUExUploaderMgr/EUExUploaderMgr/sourceCode/ASIHttpRequest/ASIHTTPRequestConfig.h
+END
+ASINetworkQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/plugin3.0_ios/!svn/ver/111/trunk/code/public/EUExUploaderMgr/EUExUploaderMgr/sourceCode/ASIHttpRequest/ASINetworkQueue.h
+END
+ASIAuthenticationDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/plugin3.0_ios/!svn/ver/111/trunk/code/public/EUExUploaderMgr/EUExUploaderMgr/sourceCode/ASIHttpRequest/ASIAuthenticationDialog.h
+END
+ASIDataDecompressor.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/plugin3.0_ios/!svn/ver/111/trunk/code/public/EUExUploaderMgr/EUExUploaderMgr/sourceCode/ASIHttpRequest/ASIDataDecompressor.h
+END
+ASIProgressDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/plugin3.0_ios/!svn/ver/111/trunk/code/public/EUExUploaderMgr/EUExUploaderMgr/sourceCode/ASIHttpRequest/ASIProgressDelegate.h
+END
+ASIHTTPRequestDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/plugin3.0_ios/!svn/ver/111/trunk/code/public/EUExUploaderMgr/EUExUploaderMgr/sourceCode/ASIHttpRequest/ASIHTTPRequestDelegate.h
+END
+Reachability.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/plugin3.0_ios/!svn/ver/111/trunk/code/public/EUExUploaderMgr/EUExUploaderMgr/sourceCode/ASIHttpRequest/Reachability.h
+END
+ASIDataCompressor.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/plugin3.0_ios/!svn/ver/111/trunk/code/public/EUExUploaderMgr/EUExUploaderMgr/sourceCode/ASIHttpRequest/ASIDataCompressor.h
+END
+ASIFormDataRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/plugin3.0_ios/!svn/ver/111/trunk/code/public/EUExUploaderMgr/EUExUploaderMgr/sourceCode/ASIHttpRequest/ASIFormDataRequest.h
+END
+ASIHTTPRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/plugin3.0_ios/!svn/ver/111/trunk/code/public/EUExUploaderMgr/EUExUploaderMgr/sourceCode/ASIHttpRequest/ASIHTTPRequest.h
+END
+ASIDownloadCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/plugin3.0_ios/!svn/ver/111/trunk/code/public/EUExUploaderMgr/EUExUploaderMgr/sourceCode/ASIHttpRequest/ASIDownloadCache.h
+END
+ASIInputStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/plugin3.0_ios/!svn/ver/111/trunk/code/public/EUExUploaderMgr/EUExUploaderMgr/sourceCode/ASIHttpRequest/ASIInputStream.h
+END
